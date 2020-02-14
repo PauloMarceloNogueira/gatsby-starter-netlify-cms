@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: TESSSSSSTE
+title: SOBRALZINHO
 image: /img/naofazerarminha_final_rosa.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
