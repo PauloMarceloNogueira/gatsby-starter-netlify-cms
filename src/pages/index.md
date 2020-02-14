@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Teste da Fran
+title: NOVO TESTE
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
